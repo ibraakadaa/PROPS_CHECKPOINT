@@ -22,7 +22,8 @@ Profile.propTypes={
     fullname:PropTypes.string,
     bio:PropTypes.string, 
     profession:PropTypes.string,
-    children:PropTypes.object
+    children:PropTypes.object,
+    handelName:PropTypes.func
 }
 
 export default Profile 

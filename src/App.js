@@ -18,7 +18,7 @@ function handelName(str){
   return (
     <div >
     <Profile fullName={fullName} bio={bio} profession={profession} handelName={handelName}>
-    <img  style={{ height:"280px ",width:"20%",borderRadius:"50%"}} src=  "./ib.jpg "  />
+    <img  style={{ height:"280px ",width:"20%"}} src=  "./ib.jpg "  />
 
     </Profile>
      
